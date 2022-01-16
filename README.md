@@ -55,7 +55,6 @@ This project is used by the following authorities:
 
 - Additional browser support
 
-- N/A
 
 
 ## Contributing
